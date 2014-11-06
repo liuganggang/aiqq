@@ -1,0 +1,17 @@
+.bundle
+db/*.sqlite3
+log/*
+tmp/*
+config/database.yml
+public/system/*
+public/cache/*
+public/assets/*
+*.swp
+tags
+Gemfile.lock
+.DS_Store
+.sass-cache/
+.idea/*
+.idea/
+vendor/bundle/
+vendor/cache
